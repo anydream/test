@@ -14,3 +14,4 @@ Blabla..
 - signed2 test
   rebased
   sign3
+  sign4
